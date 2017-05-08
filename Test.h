@@ -9,6 +9,6 @@
 using namespace std;
 
 void test();
-void removeTopFromHeap(int *array,int heap_size);
+vector<int> removeTopFromHeap(vector<int> heap);
 
 #endif // EVALUADOR_H

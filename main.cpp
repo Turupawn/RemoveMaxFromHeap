@@ -2,8 +2,10 @@
 #include <iostream>
 using namespace std;
 
-void removeTopFromHeap(int *array,int heap_size)
+vector<int> removeTopFromHeap(vector<int> heap)
 {
+  vector<int> answer;
+  return answer;
 }
 
 int main ()
